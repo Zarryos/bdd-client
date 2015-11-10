@@ -22,13 +22,15 @@ Liste de requêtes POST :
   - POST /repos/:owner/:repo/pulls
   - POST /gists
   - POST /gists/:id/forks
-  - 
 
 Liste de requêtes GET :
   - GET /orgs/octokit/repos (Shema résumé)
   - GET /repos/octokit/octokit.rb (Shema détaillé)
-  - GET /users/:username/gists (Gist)
-  - GET /gists
-  - GET /gists/public
-  - GET /gists/starred
-  - 
+  - GET /users/:username/gists (users Gist)
+  - GET /gists (gist)
+  - GET /gists/public (gist publique)
+  
+Conception application cliente
+
+Les fonctionalités clients sont écrites entre parenthèses
+  
