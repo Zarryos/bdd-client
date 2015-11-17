@@ -49,8 +49,12 @@ Sur mobile:
   - Tri dans les versions
   - Historique de la version de projet
   - Affichage des branches
+  
+http://hpics.li/e0ac4d6
 
 Sur le Web:
   - Tri dans les versions
   - Historique de la version de projet
   - Affichage des branches
+  
+http://www.hostingpics.net/viewer.php?id=586242wireframesmockups.png
