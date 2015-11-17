@@ -70,11 +70,11 @@ Sur mobile:
   - Historique de la version de projet
   - Affichage des branches
   
-http://hpics.li/e0ac4d6
+![Image 1](http://img11.hostingpics.net/pics/329966Wireframe1.png)
 
 Sur le Web:
   - Tri dans les versions
   - Historique de la version de projet
   - Affichage des branches
   
-http://www.hostingpics.net/viewer.php?id=586242wireframesmockups.png
+![Image 2](http://img11.hostingpics.net/pics/586242wireframesmockups.png)
