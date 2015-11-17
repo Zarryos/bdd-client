@@ -43,6 +43,26 @@ Question 3 :
 
 La requête en POST ne fonctionne pas mais celle en GET marche.
 
+Exemple de résultat : 
+
+"[
+  {
+    "url": "https://api.github.com/gists/36723f5daa60965a2685",
+    "forks_url": "https://api.github.com/gists/36723f5daa60965a2685/forks",
+    "commits_url": "https://api.github.com/gists/36723f5daa60965a2685/commits",
+    "id": "36723f5daa60965a2685",
+    "git_pull_url": "https://gist.github.com/36723f5daa60965a2685.git",
+    "git_push_url": "https://gist.github.com/36723f5daa60965a2685.git",
+    "html_url": "https://gist.github.com/36723f5daa60965a2685",
+    "files": {
+      "task1.coffee": {
+        "filename": "task1.coffee",
+        "type": "text/x-coffescript",
+        "language": "CoffeeScript",
+        "raw_url": "https://gist.githubusercontent.com/isaacrg/36723f5daa60965a2685/raw/e9f345e9a19ea26c27ce38b336ac10d7110d32ce/task1.coffee",
+        "size": 71
+      }"
+
 Queston 4 : 
 
 Sur mobile:
