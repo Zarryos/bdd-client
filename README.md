@@ -2,12 +2,15 @@
 
 TD1 : 
 
+Question 1 :
+
 API -> GitHub : 
   - Informations sur utilisateur
   - Informatons sur un repository
   - Authentification
   - Pagination
   - Requêtes conditionelles
+  - Redirection HTTPS
   
 API -> Weather : 
   - Données de météo actuelles
@@ -17,6 +20,8 @@ API -> Weather :
   - Stations météo
   - Carte météo
   - Indice UV
+
+Question 2 :
 
 Liste de requêtes POST :
   - POST /repos/:owner/:repo/pulls
@@ -30,7 +35,22 @@ Liste de requêtes GET :
   - GET /gists (gist)
   - GET /gists/public (gist publique)
   
-Conception application cliente
-
-Les fonctionalités clients sont écrites entre parenthèses
+Liste des requêtes authentifiés : 
+  - curl https://api.github.com/?access_token=OAUTH-TOKEN
+  - curl -H "Authorization: token OAUTH-TOKEN" https://api.github.com
   
+Question 3 : 
+
+La requête en POST ne fonctionne pas mais celle en GET marche.
+
+Queston 4 : 
+
+Sur mobile:
+  - Tri dans les versions
+  - Historique de la version de projet
+  - Affichage des branches
+
+Sur le Web:
+  - Tri dans les versions
+  - Historique de la version de projet
+  - Affichage des branches
